@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "student-reg"
+  "cli": {
+    "analytics": false
+  }
 }
